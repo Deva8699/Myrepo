@@ -1,2 +1,6 @@
 This is sample edit file 
+<<<<<<< Updated upstream
 edit by deva
+=======
+Hai this is Deva
+>>>>>>> Stashed changes
